@@ -1,6 +1,6 @@
 # React To-Do List
 
-This is a simple to-do list application built with React JSX.
+This is a simple to-do list application built with React.
 
 ## Features
 
